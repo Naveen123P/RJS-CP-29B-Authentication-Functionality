@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.header-items {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-item {
+  margin-right: 5px;
+}
+li {
+  list-style-type: none;
+}
